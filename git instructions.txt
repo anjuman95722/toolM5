@@ -1,0 +1,14 @@
+to initiate git with any project first time
+git init
+
+to add any new changes of project to git
+git add
+
+to commit added changes of project to git 
+git commit -m "message related to the changes of project"
+
+to push the committed changes of project
+git push
+
+to get new changes from git pushed by other persons
+git pull
